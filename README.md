@@ -1,2 +1,2 @@
 # Ejemplo
-practicando semana tec 1
+Ejemplo para tc1001s sept 2021
